@@ -1,0 +1,1 @@
+{"name":"Local: Multi_set","url":"c:\\XPSc\\STL_part2\\Set\\Multi_set.cpp","tests":[{"id":1744437601429,"input":"4\n1 2 3 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\STL_part2\\Set\\Multi_set.cpp","group":"local","local":true}

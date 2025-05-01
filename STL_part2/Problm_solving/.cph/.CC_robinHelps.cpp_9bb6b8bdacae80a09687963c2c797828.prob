@@ -1,0 +1,1 @@
+{"name":"Local: CC_robinHelps","url":"c:\\XPSc\\STL_part2\\Problm_solving\\CC_robinHelps.cpp","tests":[{"id":1744804937374,"input":"4\n2 2\n2 0\n3 2\n3 0 0\n6 2\n0 3 0 0 0 0\n2 5\n5 4","output":"1\n2\n3\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\STL_part2\\Problm_solving\\CC_robinHelps.cpp","group":"local","local":true}

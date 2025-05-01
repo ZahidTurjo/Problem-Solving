@@ -1,0 +1,1 @@
+{"name":"Local: C_DracullaEats","url":"c:\\XPSc\\Problem Solving Part-1\\contest1\\C_DracullaEats.cpp","tests":[{"id":1744643879649,"input":"4\n1\n10\n15\n16\n","output":"0\n2\n2\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\Problem Solving Part-1\\contest1\\C_DracullaEats.cpp","group":"local","local":true}

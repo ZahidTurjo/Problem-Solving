@@ -1,0 +1,1 @@
+{"name":"Local: numberOfsegmentSmallSum","url":"c:\\XPSc\\Two Pointers And Sliding Window\\week5\\numberOfsegmentSmallSum.cpp","tests":[{"id":1745648761465,"input":"7 20\n2 6 4 3 6 8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\Two Pointers And Sliding Window\\week5\\numberOfsegmentSmallSum.cpp","group":"local","local":true}

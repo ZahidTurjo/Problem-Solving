@@ -1,0 +1,1 @@
+{"name":"Local: I_chatOrder","url":"c:\\XPSc\\STL\\Group Problem\\I_chatOrder.cpp","tests":[{"id":1744201063312,"input":"8\nalina\nmaria\nekaterina\ndarya\ndarya\nekaterina\nmaria\nalina\n","output":"alina\nmaria\nekaterina\ndarya\n\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\STL\\Group Problem\\I_chatOrder.cpp","group":"local","local":true}

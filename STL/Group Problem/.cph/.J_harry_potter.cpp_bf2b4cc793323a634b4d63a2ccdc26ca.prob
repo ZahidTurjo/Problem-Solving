@@ -1,0 +1,1 @@
+{"name":"Local: J_harry_potter","url":"c:\\XPSc\\STL\\Group Problem\\J_harry_potter.cpp","tests":[{"id":1744204129341,"input":"6\ntom\nlucius\nginny\nharry\nginny\nharry\n","output":"6\ntom\nlucius\nginny\nharry\nginny\nharry\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\STL\\Group Problem\\J_harry_potter.cpp","group":"local","local":true}

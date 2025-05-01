@@ -1,0 +1,1 @@
+{"name":"Local: B_bib","url":"c:\\XPSc\\Problem Solving Part-1\\contest\\B_bib.cpp","tests":[{"id":1744560903234,"input":"4\n4 2 -2 2\n4 1 0 4\n3 3 -1 2\n9 8 -6 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\Problem Solving Part-1\\contest\\B_bib.cpp","group":"local","local":true}

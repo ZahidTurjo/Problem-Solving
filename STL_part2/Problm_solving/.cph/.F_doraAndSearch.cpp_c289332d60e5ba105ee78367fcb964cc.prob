@@ -1,0 +1,1 @@
+{"name":"Local: F_doraAndSearch","url":"c:\\XPSc\\STL_part2\\Problm_solving\\F_doraAndSearch.cpp","tests":[{"id":1744710446253,"input":"4\n3\n1 2 3\n4\n2 1 4 3\n7\n1 3 2 4 6 5 7\n6\n2 3 6 5 4 1\n\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\STL_part2\\Problm_solving\\F_doraAndSearch.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: B-find_multiple","url":"c:\\XPSc\\Problem Solving Part-1\\week 1\\B-find_multiple.cpp","tests":[{"id":1742904120381,"input":"123 456 100","output":""},{"id":1742904405538,"input":"630 940 314","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\Problem Solving Part-1\\week 1\\B-find_multiple.cpp","group":"local","local":true}

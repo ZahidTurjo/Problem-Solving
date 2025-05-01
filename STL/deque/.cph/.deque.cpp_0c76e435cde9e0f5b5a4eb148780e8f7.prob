@@ -1,0 +1,1 @@
+{"name":"Local: deque","url":"c:\\XPSc\\STL\\deque\\deque.cpp","tests":[{"id":1743948755892,"input":"4\n56 8 92 23","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\STL\\deque\\deque.cpp","group":"local","local":true}

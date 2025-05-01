@@ -1,0 +1,1 @@
+{"name":"Local: E_berpizza","url":"c:\\XPSc\\STL_part2\\E_berpizza.cpp","tests":[{"id":1744555204153,"input":"8\n1 8\n1 10\n1 6\n3\n2\n1 9\n2\n3\n\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\STL_part2\\E_berpizza.cpp","group":"local","local":true}

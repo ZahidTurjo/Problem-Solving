@@ -1,0 +1,1 @@
+{"name":"Local: B_pendingAssingments","url":"c:\\XPSc\\Problem Solving Part-1\\contest1\\B_pendingAssingments.cpp","tests":[{"id":1744643414408,"input":"3\n5 5 5\n50 80 2\n20 72 1\n","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\Problem Solving Part-1\\contest1\\B_pendingAssingments.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: F_binary_con","url":"c:\\XPSc\\Problem Solving Part-1\\contest1\\F_binary_con.cpp","tests":[{"id":1744649128117,"input":"1\n4 2\n1101\n0111\n","output":"NO\nNO\nYES\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\Problem Solving Part-1\\contest1\\F_binary_con.cpp","group":"local","local":true}

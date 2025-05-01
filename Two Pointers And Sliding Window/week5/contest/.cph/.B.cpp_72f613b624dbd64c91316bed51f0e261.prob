@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"c:\\XPSc\\Two Pointers And Sliding Window\\week5\\contest\\B.cpp","tests":[{"id":1745939308928,"input":"4\n100 25 40\n100 29 45\n46 1 2\n78 15 78\n\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\Two Pointers And Sliding Window\\week5\\contest\\B.cpp","group":"local","local":true}
