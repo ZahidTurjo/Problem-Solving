@@ -1,0 +1,1 @@
+{"name":"Local: A_specialCharacters","url":"c:\\XPSc\\Problem Solving Part-1\\A_specialCharacters.cpp","tests":[{"id":1746285181384,"input":"3\n6\n1\n2\n","output":"YES\nAAABAACC\nNO\nYES\nMM"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\Problem Solving Part-1\\A_specialCharacters.cpp","group":"local","local":true}
