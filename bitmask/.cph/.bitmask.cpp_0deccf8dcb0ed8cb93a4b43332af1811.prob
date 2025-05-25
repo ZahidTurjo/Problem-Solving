@@ -1,0 +1,1 @@
+{"name":"Local: bitmask","url":"c:\\XPSc\\bitmask\\bitmask.cpp","tests":[{"id":1747581579971,"input":"3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\bitmask\\bitmask.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: missing_coinSum","url":"c:\\XPSc\\bitmask\\problemSolving\\missing_coinSum.cpp","tests":[{"id":1748018026742,"input":"5\n2 9 1 2 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\bitmask\\problemSolving\\missing_coinSum.cpp","group":"local","local":true}
