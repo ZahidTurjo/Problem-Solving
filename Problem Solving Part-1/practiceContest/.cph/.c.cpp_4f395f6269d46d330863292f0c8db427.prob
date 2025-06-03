@@ -1,0 +1,1 @@
+{"name":"Local: c","url":"c:\\XPSc\\Problem Solving Part-1\\practiceContest\\c.cpp","tests":[{"id":1748875855046,"input":"2\n6 4\nannncc\nc\nc\nc\nd\n9 3\nananymous\nr\nr\nr\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\Problem Solving Part-1\\practiceContest\\c.cpp","group":"local","local":true}

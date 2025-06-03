@@ -1,0 +1,1 @@
+{"name":"Local: exponentiation","url":"c:\\XPSc\\Math&number Theory\\problmSolving\\exponentiation.cpp","tests":[{"id":1748622188086,"input":"3\n3 4\n2 8\n123 123","output":"81\n256\n921450052"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\Math&number Theory\\problmSolving\\exponentiation.cpp","group":"local","local":true}
