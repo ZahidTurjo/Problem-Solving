@@ -9,25 +9,24 @@ int main(){
     {
       int n;
       cin>>n;
-      set<int>s;
-     
+
+      vector<int>a(n);
       for(int i=0;i<n;i++){
-        int x;
-        cin>>x;
-        s.insert(x);
-        
+        cin>>a[i];
       }
-       int one=0;
-      int dis=0;
-      for(auto x:s){
-        
-        if(x==1){
-            one=1;
-        }else if(x!=1){
-            dis++;
-        }
+      sort(a.begin(),a.end());
+
+      int ans=n;
+      for(int i=0;i<n;i++){
+        int total=a[i]+n-(i+1);
+        ans=min(ans,total);
       }
-      cout<<dis+one<<'\n';
+
+      cout<<ans<<endl;
+
+
+     
+    
     }
     
     return 0;

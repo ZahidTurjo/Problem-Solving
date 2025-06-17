@@ -14,18 +14,20 @@ int main(){
     for(int i=0;i<q;i++){
         int key;
         cin>>key;
-        int l=0,r=n-1,ans=-1;
+        int l=0,r=n-1,ans=n;
       
         while (l<=r)
         {
            int mid=(l+r)/2;
-           if(key>=a[mid]){
+           if(key<=a[mid]){
             ans=mid;
-            l=mid+1;
-           }else{
             r=mid-1;
+        }else{
+               l=mid+1;
            }
         }
+
+
 
         cout<<ans+1<<'\n';
     }

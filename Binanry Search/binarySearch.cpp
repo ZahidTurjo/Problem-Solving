@@ -30,6 +30,8 @@ int main(){
                 l=mid+1;
             }
         }
+
+        
         if(ok)cout<<"YES"<<'\n';
         else cout<<"NO"<<'\n';
         
