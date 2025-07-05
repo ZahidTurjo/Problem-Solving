@@ -1,0 +1,1 @@
+{"name":"Local: gameWithdoors","url":"c:\\XPSc\\Problem Solving Part-1\\gameWithdoors.cpp","tests":[{"id":1750698170267,"input":"4\n1 2\n3 4\n2 5\n2 5\n3 7\n6 7\n4 5\n2 8\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\Problem Solving Part-1\\gameWithdoors.cpp","group":"local","local":true}

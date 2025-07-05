@@ -1,0 +1,1 @@
+{"name":"Local: bestFive","url":"c:\\XPSc\\Problem Solving Part-1\\bestFive.cpp","tests":[{"id":1751132100139,"input":"8\nABABB\nABABA\nBBBAB\nAAAAA\nBBBBB\nBABAA\nAAAAB\nBAAAA\n","output":"B\nA\nB\nA\nB\nA\nA\nA\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\Problem Solving Part-1\\bestFive.cpp","group":"local","local":true}

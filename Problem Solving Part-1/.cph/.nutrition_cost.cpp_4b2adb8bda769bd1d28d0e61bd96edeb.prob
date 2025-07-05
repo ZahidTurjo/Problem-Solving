@@ -1,0 +1,1 @@
+{"name":"Local: nutrition_cost","url":"c:\\XPSc\\Problem Solving Part-1\\nutrition_cost.cpp","tests":[{"id":1750700149899,"input":"3\n3 5\n1 2 3\n1 1 1\n3 1\n1 2 3\n2 2 2\n5 6\n3 4 2 2 3\n7 4 1 1 8","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\Problem Solving Part-1\\nutrition_cost.cpp","group":"local","local":true}

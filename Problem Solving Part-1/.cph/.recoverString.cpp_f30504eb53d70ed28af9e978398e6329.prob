@@ -1,0 +1,1 @@
+{"name":"Local: recoverString","url":"c:\\XPSc\\Problem Solving Part-1\\recoverString.cpp","tests":[{"id":1751303715359,"input":"5\n24\n70\n3\n55\n48\n","output":"aav\nrzz\naaa\nczz\nauz\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\Problem Solving Part-1\\recoverString.cpp","group":"local","local":true}
