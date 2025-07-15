@@ -1,0 +1,1 @@
+{"name":"Local: A_problemGenerator","url":"c:\\XPSc\\Problem Solving Part-1\\A_problemGenerator.cpp","tests":[{"id":1751811943248,"input":"3\n10 1\nBGECDCBDED\n10 2\nBGECDCBDED\n9 1\nBBCDEFFGG\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\Problem Solving Part-1\\A_problemGenerator.cpp","group":"local","local":true}
