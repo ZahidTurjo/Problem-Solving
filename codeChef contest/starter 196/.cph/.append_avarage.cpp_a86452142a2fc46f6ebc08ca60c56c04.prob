@@ -1,0 +1,1 @@
+{"name":"Local: append_avarage","url":"c:\\XPSc\\codeChef contest\\starter 196\\append_avarage.cpp","tests":[{"id":1753543060689,"input":"2\n5 1\n6 5 7 4 7\n5 2\n1 4 10 8 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\codeChef contest\\starter 196\\append_avarage.cpp","group":"local","local":true}

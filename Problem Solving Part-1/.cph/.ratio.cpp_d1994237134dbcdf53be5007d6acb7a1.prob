@@ -1,0 +1,1 @@
+{"name":"Local: ratio","url":"c:\\XPSc\\Problem Solving Part-1\\ratio.cpp","tests":[{"id":1752547642982,"input":"6\n2 4\n4 4\n3 5\n10 6\n8 7\n2 7","output":"0\n2\n1\n1\n3\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\XPSc\\Problem Solving Part-1\\ratio.cpp","group":"local","local":true}
